@@ -13,4 +13,4 @@ p8c.py [-h] [-a AUTHOR] [-c] directory
 ```
 
 ## License
-Released under MIT license. See [LICENSE](https://github.com/louthinker/p8c/blob/master/LICENSE) for details.
+Released under MIT license. See [LICENSE](https://github.com/lui5fl/p8c/blob/master/LICENSE) for details.
