@@ -11,3 +11,6 @@ The specified directory must have a 'src' folder which includes all the source f
 ```python
 p8c.py [-h] [-a AUTHOR] [-c] directory
 ```
+
+## License
+Released under MIT license. See [LICENSE](https://github.com/louthinker/p8c/blob/master/LICENSE) for details.
